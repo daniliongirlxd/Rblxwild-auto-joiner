@@ -13,9 +13,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Installation:
-1) First download the latest version of the programversion.
+1) First download the latest version of the program.
 2) Extract the files to a foler of your choice
-3) Edit the config with the help of the config guid below
+3) Edit the config with the help of the config guide below
 4) Install [python](https://www.python.org/downloads/)
 5) Now run the **"installer.bat"** file and it should start running, now you can minimise the chrome browser and the program and do some work while waiting for a notification. 
 - Any problems open up a new issue on this github respitory!
@@ -62,7 +62,7 @@ Just put in the browser you are using, current options are:
 - firefox
 - chrome
 
-Copy and paste!
+Copy and paste! This is used to get a cloudflare cookie which will help bypass some restrictions
 
 ### user_agent:
 Go to [whatsmyua.info](https://www.whatsmyua.info/) and copy the user agent value
