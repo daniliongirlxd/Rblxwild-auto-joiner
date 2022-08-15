@@ -5,6 +5,6 @@ cloudscraper
 browser_cookie3
 colorama
 win10toast
-twocaptcha
+2captcha-python
 discord_webhook
 requests
