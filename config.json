@@ -1,6 +1,6 @@
 {
   "minimum_amount": 3000,
-  "browser": "chrome",
+  "browser": "edge",
   "user_agent": "Da_agent",
   "windows_notification": true,
   "webhook_enabled": true,
